@@ -30,7 +30,7 @@
 ١.  **پسووڵەیەکی فرۆشیار (Vendor Bill)** دروست بکە.
 ٢.  لە بەشی دێڕی بابەتەکاندا، کلیک لەسەر **وێنۆچکەی گێڕ** بکە و **جۆری سامان (Asset Category)** لە ژێر بەشی "Shipping & Assets" هەڵبژێرە.
 
-![Asset Category Selection in Vendor Bill](/images/docs/vendor-bill-asset-category-ckb.png)
+![Asset Category Selection in Vendor Bill](assets/vendor-bill-asset-category-ckb.png)
 
 ٣.  پسووڵەکە **پۆست (Post)** بکە. سیستەمەکە بە شێوەیەکی ئۆتۆماتیکی سامانێکی ڕەشنووس دروست دەکات.
 

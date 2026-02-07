@@ -34,7 +34,7 @@ order: 13
     *   ئەگەر کاڵا بەردەست بێت، ئەوا کاڵاکان "دەپارێزێت" (Reserves).
 4.  **Done (تەواو/Validates):** جووڵەکە بە فیزیایی تەواو بووە و ئاستی کۆگا نوێ دەکرێتەوە.
 
-![پرۆسەی Stock Picking](/images/docs/stock_picking_process.png)
+![پرۆسەی Stock Picking](assets/stock_picking_process.png)
 
 ---
 

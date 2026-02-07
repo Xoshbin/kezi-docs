@@ -30,7 +30,7 @@
 ١.  قم بإنشاء **فاتورة مورد (Vendor Bill)**.
 ٢.  في بند الفاتورة، انقر فوق **أيقونة الترس** واختر **فئة الأصول (Asset Category)** ضمن قسم "Shipping & Assets".
 
-![Asset Category Selection in Vendor Bill](/images/docs/vendor-bill-asset-category.png)
+![Asset Category Selection in Vendor Bill](assets/vendor-bill-asset-category.png)
 
 ٣.  قم بـ **ترحيل (Post)** الفاتورة. سيقوم النظام تلقائيًا بإنشاء أصل مسودة.
 

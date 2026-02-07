@@ -13,12 +13,12 @@
 ### الخطوة ١: إنشاء فاتورة المورد
 بدلاً من مجرد تسجيل مصروف، سنستخدم **فاتورة مورد (Vendor Bill)** لإنشاء الأصل.
 
-![Vendor Bills List View](/images/docs/vendor-bills-list.png)
+![Vendor Bills List View](assets/vendor-bills-list.png)
 
 ١.  انتقل إلى **المحاسبة ← المشتريات ← فواتير الموردين**.
 ٢.  انقر فوق **إنشاء**.
 
-![Create Vendor Bill Form](/images/docs/vendor-bill-create.png)
+![Create Vendor Bill Form](assets/vendor-bill-create.png)
 
 ٣.  اختر **Paykar Tech Supplies** كمورد.
 ٤.  أدخل **مرجع الفاتورة** (على سبيل المثال، `INV-2026-001`).
@@ -29,7 +29,7 @@
 ١.  في قسم **بنود الفاتورة**، انقر فوق **إضافة بند**.
 ٢.  انقر فوق **أيقونة الترس (الإعدادات)** في بند الفاتورة لفتح **الإعدادات المتقدمة**.
 
-![Asset Category Selection](/images/docs/vendor-bill-asset-category.png)
+![Asset Category Selection](assets/vendor-bill-asset-category.png)
 
 ٣.  في قسم **الشحن والأصول (Shipping & Assets)**، انقر فوق الزر **"+"** بجوار **الفئة (Category)** لإنشاء فئة جديدة.
 ٣.  املأ التفاصيل:

@@ -30,7 +30,7 @@ This method is best for new purchases as it links the asset to the original invo
 1.  Create a **Vendor Bill**.
 2.  On the line item, click the **gear icon** and select the **Asset Category** under the "Shipping & Assets" section.
 
-![Asset Category Selection in Vendor Bill](/images/docs/vendor-bill-asset-category.png)
+![Asset Category Selection in Vendor Bill](assets/vendor-bill-asset-category.png)
 
 3.  **Post** the bill. The system will automatically create a draft asset.
 
