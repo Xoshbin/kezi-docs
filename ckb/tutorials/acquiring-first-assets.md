@@ -13,12 +13,12 @@
 ### هەنگاوی ١: دروستکردنی پسووڵەی فرۆشیار
 لەبری ئەوەی تەنها خەرجییەک تۆمار بکەین، ئێمە **پسووڵەی فرۆشیار (Vendor Bill)** بەکاردەهێنەین بۆ دروستکردنی سامانەکە.
 
-![Vendor Bills List View](/docs/images/vendor-bills-list-ckb.png)
+![Vendor Bills List View](/images/docs/vendor-bills-list-ckb.png)
 
 ١.  بچۆ بۆ **ژمێریاری ← کڕینەکان ← پسووڵەکانی فرۆشیار**.
 ٢.  کلیک لەسەر **دروستکردن** بکە.
 
-![Create Vendor Bill Form](/docs/images/vendor-bill-create-ckb.png)
+![Create Vendor Bill Form](/images/docs/vendor-bill-create-ckb.png)
 
 ٣.  **Paykar Tech Supplies** وەک فرۆشیار هەڵبژێرە.
 ٤.  **سەرچاوەی پسووڵە** داخل بکە (بۆ نموونە، `INV-2026-001`).
@@ -29,7 +29,7 @@
 ١.  لە بەشی **دێڕی بابەتەکاندا**، کلیک لەسەر **Add to lines** بکە.
 ٢.  کلیک لەسەر **وێنۆچکەی گێڕ (ڕێکخستنەکان)** بکە لەسەر دێڕی بابەتەکە بۆ کردنەوەی **ڕێکخستنە پێشکەوتووەکان**.
 
-![Asset Category Selection](/docs/images/vendor-bill-asset-category-ckb.png)
+![Asset Category Selection](/images/docs/vendor-bill-asset-category-ckb.png)
 
 ٣.  لە بەشی **Shipping & Assets**، کلیک لەسەر دوگمەی **"+"** تەنیشت **Category** بکە بۆ دروستکردنی جۆرێکی نوێ.
 ٣.  وردەکارییەکان پڕبکەرەوە:
